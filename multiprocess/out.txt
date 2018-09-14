@@ -1,0 +1,4 @@
+buf: child :sort input.txt 456456
+1
+2
+3
